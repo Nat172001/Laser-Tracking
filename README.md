@@ -14,8 +14,8 @@ The DBscan method applies the DBSCAN clustering algorithm to the moving points t
 The publish_cloud method publishes the processed point clouds to the respective topics. Each point cloud is tagged with a header indicating the frame of reference.
 
 <p align="center">
-  <img src="https://github.com/Nat172001/Laser-Tracking/blob/main/Bag2.gif" width="400" />
-  <img src="https://github.com/Nat172001/Laser-Tracking/blob/main/Bag7.gif" width="400" />
+  <img src="https://github.com/Nat172001/Laser-Tracking/blob/main/Bag2.gif" width="400" height="400" />
+  <img src="https://github.com/Nat172001/Laser-Tracking/blob/main/Bag7.gif" width="400" height="400" />
 </p>
 
 **TrackData Node**
